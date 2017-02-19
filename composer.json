@@ -3,7 +3,7 @@
   "description": "This library allows to apply different naming conventions.",
   "minimum-stability": "stable",
   "license": "Apache 2.0",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Bartosz Bartniczak",
