@@ -1,4 +1,6 @@
-BartoszBartniczak\NamingConventionConverter
+BartoszBartniczak\NamingConventionConverter 
+[![Build Status](https://travis-ci.org/BartoszBartniczak/NamingConventionConverter.svg?branch=master)](https://travis-ci.org/BartoszBartniczak/NamingConventionConverter)
+ [![Coverage Status](https://coveralls.io/repos/github/BartoszBartniczak/NamingConventionConverter/badge.svg?branch=master)](https://coveralls.io/github/BartoszBartniczak/NamingConventionConverter?branch=master)
 ===========================================
 This library allows to apply different naming conventions.
 ---------------------------------------------
