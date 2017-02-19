@@ -38,3 +38,17 @@ $underscoreToPascalCaseConverter = new UnderscoreToPascalCaseConverter();
 $underscoreToPascalCaseConverter->convert('pascal_case_to_underscore_converter');
 // pascal_case_to_underscore_converter -> PascalCaseToUnderscoreConverter
 ```
+
+#### Lazy converter
+
+Lazy converter does nothing. You can use it as plug, when you don't want to change nothing.
+
+```php
+<?php
+
+use BartoszBartniczak\NamingConventionConverter\LazyConverter;
+
+$lazyConverter = new LazyConverter();
+$lazyConverter->convert('i don\'t want to do anything');
+// i don't want to do anything -> i don't want to do anything
+```
